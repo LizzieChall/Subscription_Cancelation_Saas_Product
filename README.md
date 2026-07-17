@@ -226,23 +226,23 @@ Built the following charts in Hex to communicate findings clearly:
 
 ### Cancellation Reason 1 — Primary (Required)
 
-*(Add Reason 1 bar chart here)*
+<img width="1641" height="760" alt="# of Instances for Cancellation Reason 1" src="https://github.com/user-attachments/assets/ef93ce30-191e-40fa-a510-6d2c71c15a73" />
 
 ### Cancellation Reason 2 — First Optional
 
-*(Add Reason 2 bar chart here)*
+<img width="1648" height="757" alt="# of Instances for Cancellation Reason 2" src="https://github.com/user-attachments/assets/52a4f0bc-7018-4e99-8a65-0ab170751d5e" />
 
 ### Cancellation Reason 3 — Second Optional
 
-*(Add Reason 3 bar chart here)*
+<img width="1648" height="756" alt="# of Instances for Cancellation Reason 3" src="https://github.com/user-attachments/assets/a5ef7eb4-ae62-4c59-8076-8c1d118e45b9" />
 
 ### Number of Subscriptions per Cancellation Reason, by Position
 
-*(Add faceted bar chart here)*
+<img width="1656" height="762" alt="Number of Subscriptions per Cancellation Reason" src="https://github.com/user-attachments/assets/8efaa7bf-b83e-40a3-b891-52821dc6e3da" />
 
 ### Annual Cancellation Reason Trend
 
-*(Add line chart here)*
+<img width="1648" height="762" alt="Annual Percent of Cancellation Over Time" src="https://github.com/user-attachments/assets/517c1ba6-7663-4cdd-99e4-f71c49f8b006" />
 
 ---
 
